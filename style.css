@@ -281,6 +281,13 @@ a {
 	display: inline-block;
 	line-height: 35px;
 }
+.about h4 {
+	margin-top: 0px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #007200;
+	display: inline-block;
+	line-height: 20px;
+}
 .about-text p {
 	font-size: 15px;
 	font-weight: 300;
@@ -304,6 +311,7 @@ a {
 	/* height: 70%; */
 	/* width: 3px; */
 	padding-left: 20px;
+	/* position: sticky; */
 }
 .img-logo {
 	width: 250px;
